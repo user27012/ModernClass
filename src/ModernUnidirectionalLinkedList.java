@@ -1,6 +1,7 @@
 public class ModernUnidirectionalLinkedList<T> {
     private Node<T> head;
 
+
     public T contains(T i) {
         return i;
     }
